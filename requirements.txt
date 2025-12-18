@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu  # or faiss-gpu
+torch
+pydantic
+python-multipart
+numpy
+pandas
